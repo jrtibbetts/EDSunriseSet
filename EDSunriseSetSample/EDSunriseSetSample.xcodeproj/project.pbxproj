@@ -41,6 +41,7 @@
 		94115C061B7BFBFB00E51121 /* EDSunriseSetSampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EDSunriseSetSampleTests.m; sourceTree = "<group>"; };
 		94115C101B7BFFA100E51121 /* EDSunriseSet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = EDSunriseSet.h; path = ../../EDSunriseSet.h; sourceTree = "<group>"; };
 		94115C111B7BFFA100E51121 /* EDSunriseSet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = EDSunriseSet.m; path = ../../EDSunriseSet.m; sourceTree = "<group>"; };
+		96F4B3A42659F8E4001C2A0C /* SwiftSunriset */ = {isa = PBXFileReference; lastKnownFileType = folder; name = SwiftSunriset; path = ../SwiftSunriset; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +65,7 @@
 		94115BE11B7BFBFA00E51121 = {
 			isa = PBXGroup;
 			children = (
+				96F4B3A42659F8E4001C2A0C /* SwiftSunriset */,
 				94115BEC1B7BFBFA00E51121 /* EDSunriseSetSample */,
 				94115C031B7BFBFA00E51121 /* EDSunriseSetSampleTests */,
 				94115BEB1B7BFBFA00E51121 /* Products */,
@@ -182,6 +184,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -410,6 +413,7 @@
 				94115C0C1B7BFBFB00E51121 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		94115C0D1B7BFBFB00E51121 /* Build configuration list for PBXNativeTarget "EDSunriseSetSampleTests" */ = {
 			isa = XCConfigurationList;
@@ -418,6 +422,7 @@
 				94115C0F1B7BFBFB00E51121 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
